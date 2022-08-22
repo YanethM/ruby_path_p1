@@ -52,3 +52,16 @@ puts 5 + 9
 puts 2 ** 2
 fav_number = 3
 puts ("my favorite number is " + fav_number.to_s)
+puts 4 % 2
+
+num = 20
+puts num.abs()
+num2 = 20.687
+puts num2.round()
+puts num2.ceil()
+puts num2.floor
+#functions with Math library
+puts Math.sqrt(36)
+puts Math.log(1)
+puts 1.0 + 7
+puts 10 / 7
